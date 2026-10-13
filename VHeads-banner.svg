@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">VACK STUDIO VHeads</title>
+  <desc id="desc">A dark violet Vack Studio banner for VHeads with a pixel-art head mark.</desc>
+  <defs>
+    <linearGradient id="violet" x2="1" y2="1">
+      <stop stop-color="#c1a2e3"/><stop offset="1" stop-color="#7b3eb7"/>
+    </linearGradient>
+    <linearGradient id="glass" x2="1">
+      <stop stop-color="#31223e"/><stop offset="1" stop-color="#1e172b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" fill="#17131e"/>
+  <rect x="28" y="28" width="1144" height="304" rx="10" fill="url(#glass)" stroke="#554169" stroke-width="2"/>
+  <rect x="72" y="77" width="9" height="31" fill="#b891da"/>
+  <text x="99" y="101" fill="#d4b7ea" font-size="29" font-family="Arial,sans-serif" letter-spacing="3">VACK STUDIO  |  VHEADS</text>
+  <text x="75" y="187" fill="#f6f0fc" font-size="65" font-weight="700" font-family="Arial,sans-serif">Custom heads, made simple.</text>
+  <text x="78" y="243" fill="#c4b5d0" font-size="25" font-family="Arial,sans-serif">A custom-heads plugin for Minecraft servers</text>
+  <rect x="78" y="276" width="142" height="7" rx="3" fill="url(#violet)"/>
+  <rect x="1051" y="247" width="49" height="49" fill="#5e3f7b" stroke="#b68fd3" stroke-width="6"/>
+  <rect x="1064" y="259" width="22" height="22" fill="#21182d"/>
+  <path d="M1067 263h15v7h-3v7h-9v-7h-3z" fill="#c1a2e3"/>
+  <rect x="1069" y="267" width="3" height="3" fill="#21182d"/><rect x="1077" y="267" width="3" height="3" fill="#21182d"/>
+  <path d="M1071 274h7" stroke="#21182d" stroke-width="1.5"/>
+</svg>
