@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1680" height="820" viewBox="0 0 1680 820" role="img" aria-label="VHeads — Small details bring character to builds"><title>VHeads — Small details bring character to builds</title>
+<path d="M141 125L207 77H441" fill="none" stroke="#B8A0EA" stroke-width="2.4" opacity=".48"/>
+
+<g transform="rotate(0.85 835 413)">
+<rect x="136" y="117" width="1418" height="642" rx="7" fill="#02040A" opacity=".45"/>
+<rect x="124" y="104" width="1418" height="642" rx="6" fill="#352C4D" opacity=".9"/>
+<rect x="112" y="92" width="1418" height="642" rx="5" fill="#1B202A" stroke="#50596B" stroke-width="2"/>
+<path d="M112 92H1530" fill="none" stroke="#B8A0EA" stroke-width="3" opacity=".85"/>
+<path d="M175 175V666" fill="none" stroke="#8C72B8" stroke-width="2" opacity=".75"/>
+</g>
+<g transform="rotate(.85 835 413)">
+<text x="196" y="161" fill="#B8A0EA" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20" font-weight="750" letter-spacing="2.2">03  /  DESIGN IDEAS</text>
+<text x="192" y="257" fill="#F8F7FC" font-family="Inter,Arial,Helvetica,sans-serif" font-size="63" font-weight="740" letter-spacing="-2.0">Details with character.</text>
+<text x="197" y="302" fill="#B7C1D0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="25">Custom heads can add personality to Minecraft builds.</text>
+<path d="M194 336H1442" fill="none" stroke="#50596B" stroke-width="2"/>
+<g>
+<rect x="194" y="362" width="666" height="90" rx="4" fill="#161C27"/>
+<rect x="194" y="362" width="5" height="90" fill="#B8A0EA"/>
+<text x="226" y="399" fill="#B8A0EA" font-family="Inter,Arial,Helvetica,sans-serif" font-size="18" font-weight="780" letter-spacing="1.2">01</text>
+<text x="282" y="398" fill="#F8F7FC" font-family="Inter,Arial,Helvetica,sans-serif" font-size="27" font-weight="720">Distinctive details</text>
+<text x="282" y="430" fill="#B7C1D0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="18">A small accent can give a room character.</text>
+<rect x="194" y="463" width="666" height="90" rx="4" fill="#161C27"/>
+<rect x="194" y="463" width="5" height="90" fill="#B8A0EA"/>
+<text x="226" y="500" fill="#B8A0EA" font-family="Inter,Arial,Helvetica,sans-serif" font-size="18" font-weight="780" letter-spacing="1.2">02</text>
+<text x="282" y="499" fill="#F8F7FC" font-family="Inter,Arial,Helvetica,sans-serif" font-size="27" font-weight="720">Themed spaces</text>
+<text x="282" y="531" fill="#B7C1D0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="18">Choose details to match the build's theme.</text>
+<rect x="194" y="564" width="666" height="90" rx="4" fill="#161C27"/>
+<rect x="194" y="564" width="5" height="90" fill="#D2DBE6"/>
+<text x="226" y="601" fill="#D2DBE6" font-family="Inter,Arial,Helvetica,sans-serif" font-size="18" font-weight="780" letter-spacing="1.2">03</text>
+<text x="282" y="600" fill="#F8F7FC" font-family="Inter,Arial,Helvetica,sans-serif" font-size="27" font-weight="720">Creative touches</text>
+<text x="282" y="632" fill="#B7C1D0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="18">Let important details stand out.</text>
+</g>
+<rect x="886" y="362" width="556" height="292" rx="5" fill="#161C27" stroke="#50596B" stroke-width="1.5"/>
+<text x="922" y="408" fill="#B8A0EA" font-family="Inter,Arial,Helvetica,sans-serif" font-size="18" font-weight="760" letter-spacing="1.6">THE DESIGN PRINCIPLE</text>
+<path d="M920 424H1401" stroke="#4B5263" stroke-width="1.5"/>
+<text x="921" y="475" fill="#F8F7FC" font-family="Inter,Arial,Helvetica,sans-serif" font-size="31" font-weight="720">Make every head count.</text>
+<text x="923" y="515" fill="#B7C1D0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="19">Choose textures that suit the build.</text>
+<text x="923" y="543" fill="#B7C1D0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="19">Avoid visual clutter and repetition.</text>
+<path d="M923 574H1214" stroke="#4B5263" stroke-width="1.5"/>
+<text x="923" y="614" fill="#B8A0EA" font-family="Inter,Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="1">EDITORIAL IDEAS / NOT GAMEPLAY</text></g>
+
+</svg>
