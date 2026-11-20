@@ -82,7 +82,7 @@ Before deploying VHeads, ask the project owner for the tested build's supported 
 
 Copyright © 2026 VACK STUDIO. All rights reserved.
 
-VHeads and its presentation are proprietary to VACK STUDIO. Redistribution of software, artwork, and documentation requires appropriate authorization. Third-party components and assets retain their respective rights.
+VHeads and its presentation are proprietary to VACK STUDIO. Redistribution of software, artwork, and documentation requires appropriate authorization. Third-party components and assets retain their respective rights. 
 
 The Mini Zoiila **Top Peek** pose in the first banner comes from the original V22 mascot artwork pack. Small Mini Zoiila emojis are reused from the Vgtb studio presentation to maintain a consistent VACK STUDIO style. The pixel-head drawings are editorial illustrations, not screenshots or a representation of verified in-game content.
 
